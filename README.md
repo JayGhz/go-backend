@@ -1,10 +1,8 @@
+## 💠 Go Backend Project
+
 <div align="center">
   <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="150" alt="Go Logo" />
 </div>
-
-
-## 💠 Go Backend Project
-
 
 This project is a **REST API** built with **Go**. The API provides a **healthcheck** endpoint and is configured using the **Chi** framework for routing.
 
