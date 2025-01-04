@@ -1,0 +1,9 @@
+{
+    "symbols.files.associations": {
+        "*.service.go": "go-yellow",
+        "*.schema.go": "go-green",
+        "*.repository.go": "go-pink",
+        "*.interface.go": "go-purple",
+        "*.dto.go": "go-red",    
+    },
+}
